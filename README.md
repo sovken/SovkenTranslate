@@ -28,7 +28,7 @@ pip install googletrans
 ## Launch
 
 ```bash
-python main.py
+python google_translate_color.py
 ```
 
 ## Version 1.5.9
